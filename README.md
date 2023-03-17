@@ -6,8 +6,7 @@ Toutes les US ont été réalisées et elles fonctionnent :
 - Connexion 
 - Liste 
 - Produits 
-- Détails 
-- Produit 
+- Détails produit 
 - Panier 
 - Profil
 
