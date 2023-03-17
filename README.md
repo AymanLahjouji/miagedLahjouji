@@ -18,4 +18,5 @@ Fonctionnalités supplémentaires :
 - Page de création de compte 
 - Affichage des produits au niveau de la page d'accueil sous différents formats : ( en liste, en grid ) 
 - Affichage de plusieurs images pour chaque produit 
-... 
+
+...
