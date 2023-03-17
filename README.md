@@ -1,13 +1,14 @@
 
-MVP : 
+MVP :
 Toutes les US ont été réalisées et elles fonctionnent :
-	Connexion 
+- Connexion 
 	Liste 
 	Produits 
 	Détails 
 	Produit 
 	Panier 
 	Profil
+
 Fonctionnalités supplémentaires : 
 
 	Page de création de compte 
